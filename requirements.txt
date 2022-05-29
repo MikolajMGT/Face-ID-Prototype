@@ -1,0 +1,6 @@
+numpy~=1.21.6
+opencv-python~=4.5.5.64
+dlib
+cmake
+face_recognition
+pillow~=9.1.1
