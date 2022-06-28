@@ -40,7 +40,6 @@ class Auth:
 
     def authenticate(self):
         image = take_photo(self.known_faces)
-        # image = take_photo(self.known_faces, True)
 
         if image is None:
             return []
